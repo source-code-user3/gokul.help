@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Hello! Welcome to Gokul.Help");
+    alert("🤖 AI: How can I assist you today?");
 }
